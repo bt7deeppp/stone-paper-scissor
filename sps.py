@@ -1,6 +1,6 @@
 import random
 Player1 = random.randrange(1 , 4)
-Player1Copy = Player_1
+Player1Copy = Player1
 
 print("1-Stone ┃ 2-Paper ┃ 3-Scissor")
 Player2 = int(input("Enter your move: "))
